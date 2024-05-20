@@ -3,7 +3,7 @@
 
 preamble
 
-The environment is either activated or setup, all packages are loaded, and target paths for 
+The environment is activated, all packages are loaded, and target paths for 
 figures and animations are created.
 
 =============================================================================================
