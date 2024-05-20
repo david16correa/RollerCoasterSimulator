@@ -12,4 +12,4 @@ An example is shown below.
 
 | Geometry | Dynamics |
 |-----|------|
-| ![Geometry](figures/egReadMe1.png) | ![Dynamics](figures/egReadMe2.png) |
+| ![Geometry](figures/egReadMe1.png) | ![Dynamics](animations/egReadMe3.mp4) |
