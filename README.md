@@ -6,7 +6,7 @@ This project needs the following packages:
 - CairoMakie
 - Dates
 
-`src/main.jl` provides an example of the intended use. 
+[`src/main.jl`](../RollerCoasterSimulator/src/main.jl) provides an example of the intended use. 
 
 An example is shown below. 
 
