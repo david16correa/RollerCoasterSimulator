@@ -8,5 +8,6 @@ This project needs the following packages:
 
 `main.jl` provides an example of the intended use. 
 
-![Geometry](figures/egReadMe1.png)
-![Dynamics](figures/egReadMe2.png)
+| Example geometry | Acceleration magnitude throughout the roller coaster |
+|-----|------|
+| ![Geometry](figures/egReadMe1.png) | ![Dynamics](figures/egReadMe2.png) |
